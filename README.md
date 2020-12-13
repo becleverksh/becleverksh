@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on 한국무역통계진흥원
+- 🌱 I’m currently learning Web, Back-end Server
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 <!--
 **becleverksh/becleverksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
