@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on 한국무역통계진흥원
 - 🌱 I’m currently learning Web, Back-end Server
 
 ![becleverksh's github stats](https://github-readme-stats.vercel.app/api?username=becleverksh&show_icons=true&theme=radical)
